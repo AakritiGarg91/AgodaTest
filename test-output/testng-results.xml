@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="21" passed="21">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63" started-at="2019-07-22T06:30:33Z" finished-at="2019-07-22T06:30:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63" started-at="2019-07-22T06:30:33Z" finished-at="2019-07-22T06:30:34Z">
+      <class name="agodaTest.agoda.ChangePasswordTest">
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="10" started-at="2019-07-22T06:30:33Z" data-provider="Testdata" finished-at="2019-07-22T06:30:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="1" started-at="2019-07-22T06:30:33Z" data-provider="Testdata" finished-at="2019-07-22T06:30:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="1" started-at="2019-07-22T06:30:33Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="1" started-at="2019-07-22T06:30:34Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="1" started-at="2019-07-22T06:30:34Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Agoda@123456Agoda]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="1" started-at="2019-07-22T06:30:34Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdefgt165678@#j8]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="1" started-at="2019-07-22T06:30:34Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ABCDEFGHIJ1234@7KL]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="0" started-at="2019-07-22T06:30:34Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ASDFGHJKLPOIUYTRe@]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="1" started-at="2019-07-22T06:30:34Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234567890asdfgh@34]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="1" started-at="2019-07-22T06:30:34Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asdfghjklzxcvbnmqwertyuiopASDFGHJKLZXCVBNMQWERTYUIOP1234567890@#$12345678901234567890asdfghjklzxcvbnmqwertyuiop./[]]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="0" started-at="2019-07-22T06:30:34Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[   A12hjphffhg90asdfgh@34]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="1" started-at="2019-07-22T06:30:34Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12Ajhjkhkbnbjnasdfgh@34   ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="0" started-at="2019-07-22T06:30:34Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[  Ahgyghyhkjl890asdfgh@34 ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="1" started-at="2019-07-22T06:30:34Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aghftfsdvxjhj n 987 b4#@]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="0" started-at="2019-07-22T06:30:34Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asdfghjkluqytwrvbjjhhjhj]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="1" started-at="2019-07-22T06:30:34Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[012345678901234567890123456789]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="1" started-at="2019-07-22T06:30:34Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[!@#$&*!@#$&*!@#$&*!@#$&*!@#$&*!@#$&*]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="1" started-at="2019-07-22T06:30:34Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[!@#$&*ghjjjggA576775656ghhjjjgt]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="2" started-at="2019-07-22T06:30:34Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456Agodfg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Agoda@123456Agosdfjhg]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="1" started-at="2019-07-22T06:30:34Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AakritiGargTest12#@*]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+        <test-method status="PASS" signature="TestChangePassword(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:agodaTest.agoda.ChangePasswordTest@62ee68d8]" name="TestChangePassword" duration-ms="1" started-at="2019-07-22T06:30:34Z" data-provider="Testdata" finished-at="2019-07-22T06:30:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Agoda@123456AgodaA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AakritiGargTeeeest12#@*]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChangePassword -->
+      </class> <!-- agodaTest.agoda.ChangePasswordTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
